@@ -1,2 +1,2 @@
-# UNAB
-Materia Visualización de la información
+# Data teaching
+Data for work in data science 
